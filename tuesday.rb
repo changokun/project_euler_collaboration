@@ -43,7 +43,7 @@ require_relative 'functions.rb'
 # engine = NumberChainResearchEngine.new
 # engine.count_eighty_nines_under 10000000
 
-# problem 92
+# problem 104
 require_relative '104.rb'
 engine = Pandigital_Fibonacci_Ends.new
 engine.find_it
